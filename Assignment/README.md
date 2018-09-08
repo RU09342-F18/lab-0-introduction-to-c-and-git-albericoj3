@@ -4,11 +4,7 @@ These two files will be used as headers for an existing calculator application. 
 
 # Valid Input/Output
 
-The function includes three variables: num1, num2, and Operator.
-
-num1 and num2 can be any integer number. The variable is defined as int.
-
-Valid Operator characters include: +, -, *, /, %, <, >, &, |, ^, ~. The function will not accept any other characters for Operator. Operator is defined as char.
+The function includes three variables: num1, num2, and Operator. num1 and num2 can be any integer number. The variable is defined as int. Valid Operator characters include: +, -, *, /, %, <, >, &, |, ^, ~. The function will not accept any other characters for Operator. Operator is defined as char.
 
 # Implementing the new math function
 
