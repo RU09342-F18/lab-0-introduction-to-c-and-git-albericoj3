@@ -10,7 +10,7 @@
 
 int main()
 {
-    
+  //Switches condition based on the input Operator. Returns the result of the selected operation.  
   switch(Operator)
   {
     case '+': return(num1 + num2);
